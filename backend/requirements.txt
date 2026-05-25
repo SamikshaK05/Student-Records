@@ -1,0 +1,12 @@
+cached-property==2.0.1
+greenlet==3.3.2
+inflection==0.5.1
+mypy_extensions==1.1.0
+mysql-connector==2.2.9
+packaging==26.0
+setuptools==82.0.1
+SQLAlchemy==2.0.49
+sqlalchemy-orm==1.2.10
+typing-inspect==0.9.0
+typing_extensions==4.15.0
+wheel==0.46.3
